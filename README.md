@@ -47,8 +47,30 @@ This project demonstrates automated provisioning and configuration of an Apache 
 
 ---
 
-## 📸 Output Screenshot
-![Project Output](./output.png)
+## 📸 Project Screenshots
+
+### 🖥️ EC2 Instance Details
+![EC2 Instance](./ec2-instance.png)
+
+---
+
+### 🔐 Security Group Configuration
+![Security Group](./security-group.png)
+
+---
+
+### ⚙️ user_data Script
+![User Data](./user-data.png)
+
+---
+
+### 📡 Metadata Retrieval (IMDSv2)
+![Metadata](./metadata.png)
+
+---
+
+### 🌐 Application Output
+![Output](./output.png)
 
 ---
 
