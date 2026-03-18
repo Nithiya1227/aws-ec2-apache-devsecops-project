@@ -50,32 +50,32 @@ This project demonstrates automated provisioning and configuration of an Apache 
 ## 📸 Project Screenshots
 
 ### 🖥️ EC2 Instance Details
-![EC2 Instance](./ec2-instance.png)
+![EC2 Instance](screenshots/ec2-instance.png)
 
 ---
 
 ### 🔐 Security Group Configuration
-![Security Group](./security-group.png)
+![Security Group](screenshots/security-group.png)
 
 ---
 
 ### ⚙️ user_data Script
-![User Data](./user-data.png)
+![User Data](screenshots/user-data.png)
 
 ---
 
 ### 📡 Metadata Retrieval (IMDSv2)
-![Metadata](./metadata.png)
+![Metadata](screenshots/metadata.png)
 
 ---
 
 ### 🌐 Application Output
-![Output](./output.png)
+![Output](screenshots/output.png)
 
 ---
 
 ## 🔗 Access the Application
-http://<your-public-ip>
+http://13.201.51.125/
 
 ---
 
