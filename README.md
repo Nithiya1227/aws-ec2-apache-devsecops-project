@@ -89,7 +89,6 @@ http://13.201.51.125/
 
 ## 📂 Repository Structure
 
-```bash
 .
 ├── user_data.sh
 ├── README.md
