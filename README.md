@@ -88,10 +88,17 @@ http://13.201.51.125/
 ---
 
 ## 📂 Repository Structure
+
+```bash
 .
 ├── user_data.sh
-├── output.png
-└── README.md
+├── README.md
+└── screenshots/
+    ├── EC2-instance.png
+    ├── security-group.png
+    ├── user-data.png
+    ├── metadata.png
+    └── output.png
 
 ---
 
